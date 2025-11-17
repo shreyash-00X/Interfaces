@@ -1,0 +1,1 @@
+This program works like a mini airline booking system. You enter your travel details, choose your class, add your luggage, and the system calculates the total price, assigns a seat, generates a PNR, prints a ticket, and saves everything into a CSV file.
